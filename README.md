@@ -2,6 +2,8 @@
 
 # Pairwise relational perception with object queries for aerial visual grounding
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23960807.svg)](https://doi.org/10.5281/zenodo.23960807)
+
 </div>
 
 This repository contains the code of Pairception for visual grounding in UAV images. A link to the paper will be
